@@ -10,6 +10,7 @@ int main()
 a=0
 b=0
 a=b*c
+c=a/b
 // Run program: Ctrl + F5 or Debug > Start Without Debugging menu
 // Debug program: F5 or Debug > Start Debugging menu
 
